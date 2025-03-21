@@ -36,7 +36,7 @@ Implemented using **React DnD (Drag and Drop)**:
 - `useDrop()`: Defines the drop target (canvas) and handles element placement.
 
 ---
-
+ 
 ## **Tools & Technologies Used**
 
 ### **1. React**
