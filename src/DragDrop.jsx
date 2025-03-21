@@ -41,7 +41,7 @@ const DropArea = ({ onDrop, elements }) => {
     </div>
   )
 }
-
+ 
 
 // Editable component
 const EditableElement = ({ element }) => {
